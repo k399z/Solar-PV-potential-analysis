@@ -9,9 +9,6 @@
     "month": 9,
     "day": 27
   },
-  "postalCode": "N2T 2J1",
-  "administrativeArea": "ON",
-  "regionCode": "CA",
   "solarPotential": {
     "maxArrayPanelsCount": 17,
     "maxArrayAreaMeters2": 33.380432,
