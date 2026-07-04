@@ -30,7 +30,7 @@ honestly on slides.
 | Parameter | Value | Source |
 |---|---|---|
 | Installed cost, commercial rooftop | C$1.90–2.80/W typical; C$1.30–1.50/W for large single roofs. Study uses **C$1.70 / 2.10 / 2.60 scenarios** (269 small distributed roofs → small-commercial pricing) | [greenbuildingcanada.ca commercial guide](https://greenbuildingcanada.ca/cost-commercial-solar-panels-canada/), [magsolar.ca](https://magsolar.ca/cost-of-commercial-solar-panels-in-canada/) |
-| O&M | C$12–18/kW/yr commercial; study uses **C$18** (snow region, distributed sites) | [ppm.solar O&M guide](https://ppm.solar/commercial-solar-om-guide/); cross-checked vs [NREL ATB commercial PV](https://atb.nrel.gov/electricity/2024/commercial_pv) (US$) |
+| O&M | Single-site Canadian commercial C$20–30/kW/yr; **this portfolio is 269 × ~7 kW systems**, so O&M trends residential: study uses **C$40/kW/yr** (range 35–45). US guides quoting US$12–18 are unconverted USD and single-site. Mitigation: block-level inverter aggregation (43 blocks). | [ppm.solar](https://ppm.solar/commercial-solar-om-guide/) (US$, single-site); two-round Gemini+Search verification 2026-07-04, see verification_report.md |
 | Degradation | 0.5%/yr | Standard module warranty figure |
 
 ## Other assumptions (state explicitly when used)
