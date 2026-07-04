@@ -1,0 +1,365 @@
+{
+  "name": "buildings/ChIJnRomu7b2K4gRU99AbFWsEIg",
+  "center": {
+    "latitude": 43.4718575,
+    "longitude": -80.5614019
+  },
+  "imageryDate": {
+    "year": 2018,
+    "month": 9,
+    "day": 27
+  },
+  "solarPotential": {
+    "maxArrayPanelsCount": 7,
+    "maxArrayAreaMeters2": 13.7448845,
+    "maxSunshineHoursPerYear": 1539.0083,
+    "carbonOffsetFactorKgPerMwh": 150.99982,
+    "wholeRoofStats": {
+      "areaMeters2": 54.470387,
+      "sunshineQuantiles": [
+        358.24652,
+        948.2517,
+        1034.9271,
+        1165.5592,
+        1265.6078,
+        1303.1858,
+        1319.613,
+        1356.9382,
+        1475.2816,
+        1522.9939,
+        1539.8988
+      ],
+      "groundAreaMeters2": 48.36
+    },
+    "roofSegmentStats": [
+      {
+        "pitchDegrees": 29.079634,
+        "azimuthDegrees": 242.94067,
+        "stats": {
+          "areaMeters2": 20.813665,
+          "sunshineQuantiles": [
+            737.6763,
+            902.8206,
+            1203.86,
+            1276.4406,
+            1303.8127,
+            1312.0507,
+            1319.4454,
+            1328.4504,
+            1344.2037,
+            1398.5443,
+            1533.9813
+          ],
+          "groundAreaMeters2": 18.19
+        },
+        "center": {
+          "latitude": 43.471849399999996,
+          "longitude": -80.56141559999999
+        },
+        "boundingBox": {
+          "sw": {
+            "latitude": 43.471810999999995,
+            "longitude": -80.5614536
+          },
+          "ne": {
+            "latitude": 43.471877,
+            "longitude": -80.5613888
+          }
+        },
+        "planeHeightAtCenterMeters": 344.24603
+      },
+      {
+        "pitchDegrees": 24.152126,
+        "azimuthDegrees": 166.8936,
+        "stats": {
+          "areaMeters2": 14.126611,
+          "sunshineQuantiles": [
+            1079.1162,
+            1295.5449,
+            1435.6444,
+            1481.5552,
+            1501.8572,
+            1515.375,
+            1521.9259,
+            1526.0143,
+            1530.2395,
+            1535.0049,
+            1539.8988
+          ],
+          "groundAreaMeters2": 12.89
+        },
+        "center": {
+          "latitude": 43.4718403,
+          "longitude": -80.56137980000001
+        },
+        "boundingBox": {
+          "sw": {
+            "latitude": 43.4718109,
+            "longitude": -80.5614016
+          },
+          "ne": {
+            "latitude": 43.4718651,
+            "longitude": -80.56135429999999
+          }
+        },
+        "planeHeightAtCenterMeters": 344.64807
+      },
+      {
+        "pitchDegrees": 29.101294,
+        "azimuthDegrees": 333.63953,
+        "stats": {
+          "areaMeters2": 11.43333,
+          "sunshineQuantiles": [
+            397.97495,
+            886.9709,
+            955.0011,
+            974.37024,
+            985.4978,
+            1002.6175,
+            1034.9271,
+            1074.4869,
+            1115.5962,
+            1168.4646,
+            1455.0625
+          ],
+          "groundAreaMeters2": 9.99
+        },
+        "center": {
+          "latitude": 43.4718764,
+          "longitude": -80.5614117
+        },
+        "boundingBox": {
+          "sw": {
+            "latitude": 43.471865,
+            "longitude": -80.5614532
+          },
+          "ne": {
+            "latitude": 43.4718923,
+            "longitude": -80.5613702
+          }
+        },
+        "planeHeightAtCenterMeters": 344.52753
+      },
+      {
+        "pitchDegrees": 25.794827,
+        "azimuthDegrees": 252.38132,
+        "stats": {
+          "areaMeters2": 8.096779,
+          "sunshineQuantiles": [
+            358.24652,
+            538.3281,
+            1136.5309,
+            1200.7662,
+            1245.11,
+            1275.9209,
+            1286.8534,
+            1293.9434,
+            1302.7866,
+            1315.1844,
+            1402.828
+          ],
+          "groundAreaMeters2": 7.29
+        },
+        "center": {
+          "latitude": 43.4718926,
+          "longitude": -80.56140789999999
+        },
+        "boundingBox": {
+          "sw": {
+            "latitude": 43.4718812,
+            "longitude": -80.56143449999999
+          },
+          "ne": {
+            "latitude": 43.471908500000005,
+            "longitude": -80.5613824
+          }
+        },
+        "planeHeightAtCenterMeters": 344.3823
+      }
+    ],
+    "solarPanelConfigs": [
+      {
+        "panelsCount": 4,
+        "yearlyEnergyDcKwh": 2357.554,
+        "roofSegmentSummaries": [
+          {
+            "pitchDegrees": 29.079634,
+            "azimuthDegrees": 242.94067,
+            "panelsCount": 1,
+            "yearlyEnergyDcKwh": 535.9539,
+            "segmentIndex": 0
+          },
+          {
+            "pitchDegrees": 24.152126,
+            "azimuthDegrees": 166.8936,
+            "panelsCount": 3,
+            "yearlyEnergyDcKwh": 1821.6001,
+            "segmentIndex": 1
+          }
+        ]
+      },
+      {
+        "panelsCount": 5,
+        "yearlyEnergyDcKwh": 2887.6995,
+        "roofSegmentSummaries": [
+          {
+            "pitchDegrees": 29.079634,
+            "azimuthDegrees": 242.94067,
+            "panelsCount": 2,
+            "yearlyEnergyDcKwh": 1066.0994,
+            "segmentIndex": 0
+          },
+          {
+            "pitchDegrees": 24.152126,
+            "azimuthDegrees": 166.8936,
+            "panelsCount": 3,
+            "yearlyEnergyDcKwh": 1821.6001,
+            "segmentIndex": 1
+          }
+        ]
+      },
+      {
+        "panelsCount": 6,
+        "yearlyEnergyDcKwh": 3407.3076,
+        "roofSegmentSummaries": [
+          {
+            "pitchDegrees": 29.079634,
+            "azimuthDegrees": 242.94067,
+            "panelsCount": 3,
+            "yearlyEnergyDcKwh": 1585.7076,
+            "segmentIndex": 0
+          },
+          {
+            "pitchDegrees": 24.152126,
+            "azimuthDegrees": 166.8936,
+            "panelsCount": 3,
+            "yearlyEnergyDcKwh": 1821.6001,
+            "segmentIndex": 1
+          }
+        ]
+      },
+      {
+        "panelsCount": 7,
+        "yearlyEnergyDcKwh": 3902.0835,
+        "roofSegmentSummaries": [
+          {
+            "pitchDegrees": 29.079634,
+            "azimuthDegrees": 242.94067,
+            "panelsCount": 4,
+            "yearlyEnergyDcKwh": 2080.4834,
+            "segmentIndex": 0
+          },
+          {
+            "pitchDegrees": 24.152126,
+            "azimuthDegrees": 166.8936,
+            "panelsCount": 3,
+            "yearlyEnergyDcKwh": 1821.6001,
+            "segmentIndex": 1
+          }
+        ]
+      }
+    ],
+    "panelCapacityWatts": 400,
+    "panelHeightMeters": 1.879,
+    "panelWidthMeters": 1.045,
+    "panelLifetimeYears": 20,
+    "buildingStats": {
+      "areaMeters2": 61.669098,
+      "sunshineQuantiles": [
+        358.24652,
+        930.7869,
+        1026.293,
+        1140.4634,
+        1245.11,
+        1297.1926,
+        1316.9712,
+        1345.4617,
+        1459.1775,
+        1521.8433,
+        1539.8988
+      ],
+      "groundAreaMeters2": 52.74
+    },
+    "solarPanels": [
+      {
+        "center": {
+          "latitude": 43.471852399999996,
+          "longitude": -80.5613709
+        },
+        "orientation": "PORTRAIT",
+        "yearlyEnergyDcKwh": 610.8839,
+        "segmentIndex": 1
+      },
+      {
+        "center": {
+          "latitude": 43.4718503,
+          "longitude": -80.56138349999999
+        },
+        "orientation": "PORTRAIT",
+        "yearlyEnergyDcKwh": 607.5625,
+        "segmentIndex": 1
+      },
+      {
+        "center": {
+          "latitude": 43.4718352,
+          "longitude": -80.5613788
+        },
+        "orientation": "PORTRAIT",
+        "yearlyEnergyDcKwh": 603.15375,
+        "segmentIndex": 1
+      },
+      {
+        "center": {
+          "latitude": 43.4718497,
+          "longitude": -80.5614128
+        },
+        "orientation": "LANDSCAPE",
+        "yearlyEnergyDcKwh": 535.9539,
+        "segmentIndex": 0
+      },
+      {
+        "center": {
+          "latitude": 43.4718534,
+          "longitude": -80.5614027
+        },
+        "orientation": "LANDSCAPE",
+        "yearlyEnergyDcKwh": 530.14545,
+        "segmentIndex": 0
+      },
+      {
+        "center": {
+          "latitude": 43.4718648,
+          "longitude": -80.56142320000001
+        },
+        "orientation": "LANDSCAPE",
+        "yearlyEnergyDcKwh": 519.6083,
+        "segmentIndex": 0
+      },
+      {
+        "center": {
+          "latitude": 43.4718611,
+          "longitude": -80.56143329999999
+        },
+        "orientation": "LANDSCAPE",
+        "yearlyEnergyDcKwh": 494.7758,
+        "segmentIndex": 0
+      }
+    ]
+  },
+  "boundingBox": {
+    "sw": {
+      "latitude": 43.4718109,
+      "longitude": -80.5614536
+    },
+    "ne": {
+      "latitude": 43.471908500000005,
+      "longitude": -80.56134159999999
+    }
+  },
+  "imageryQuality": "HIGH",
+  "imageryProcessedDate": {
+    "year": 2026,
+    "month": 1,
+    "day": 23
+  }
+}
