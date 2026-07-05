@@ -50,3 +50,6 @@ recent public tender pricing; UW Finance confirmation of Clean Electricity ITC e
 
 - `verification_report.md` — 12 parallel Gemini+Search adversarial checks (round 1)
 - `deep_research_report_gemini.md` — Gemini Deep Research agent report (round 2); corrected the net-metering cap error, emission factors, capex floor, and O&M for block aggregation. ITC labour requirements (10-point reduction if unmet) flagged.
+- Full Solar API reproduction (2026-07-05): UWP/ECH/CIF identical to stored values; CLV differs
+  only under a stricter boundary rule (9 units 0–6 m outside the hand-drawn polygon, −4% if
+  excluded). Stored 269-building dataset retained as correct.
